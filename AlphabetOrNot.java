@@ -10,11 +10,11 @@ class AlphabetOrNot
         ch = scan.next().charAt(0);
         if((ch>='a' && ch<='z') || (ch>='A' && ch<='Z'))
         {
-            System.out.print( "  Alphabet");
+            System.out.print("Alphabet");
         }
         else
         {
-            System.out.print( "  Alphabet");
+            System.out.print("Alphabet");
         }
     }
 }
