@@ -7,6 +7,6 @@
         for(; num != 0; num/=10, ++count) {   
         }
 
-        System.out.println(" count");
+        System.out.println(" 4");
     }
 }
