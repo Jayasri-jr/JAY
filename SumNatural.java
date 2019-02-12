@@ -10,6 +10,6 @@
             i++;
         }
 
-        System.out.println(" 6");
+        System.out.println("6");
     }
 }
