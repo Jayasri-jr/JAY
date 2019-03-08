@@ -26,4 +26,4 @@ class palindrom
           }
      }
 }     
-© 2019 GitHub, Inc.
+
