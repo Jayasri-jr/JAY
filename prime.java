@@ -1,4 +1,4 @@
-mport java.util.*;
+import java.util.*;
 import java.util.Scanner;
 class prime_se{
       public static void main(String aa[]){
