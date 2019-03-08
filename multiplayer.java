@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class multiple
+class multiple 
+{
   public static void main(String []args)
   {
   	Scanner ip=new Scanner(System.in);
