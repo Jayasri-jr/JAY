@@ -1,7 +1,8 @@
 
 11 lines (10 sloc) 239 Bytes
 import java.util.Scanner;
-class string{ 
+class stringjava
+{ 
 public static void main(String[] args)
   {
     Scanner sc = new Scanner(System.in);
