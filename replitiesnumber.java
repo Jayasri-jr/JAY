@@ -1,5 +1,5 @@
 import java.util.*;
-class repeatnumber
+class replitiesnumber
 {
     public static void main(String arg[]){
         Scanner input=new Scanner(System.in);
