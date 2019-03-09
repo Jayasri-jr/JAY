@@ -11,7 +11,4 @@ System.out.println((array.length)-1);
 }
 }
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Secur
+    
