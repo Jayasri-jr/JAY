@@ -10,7 +10,4 @@ int count=input.nextInt();
 }
 } 
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Sec
+   
