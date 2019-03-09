@@ -1,5 +1,5 @@
 
-11 lines (10 sloc) 239 Bytes
+
 import java.util.Scanner;
 class stringjava
 { 
