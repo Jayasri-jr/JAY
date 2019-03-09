@@ -13,8 +13,4 @@ class max10numbar
     }
 }
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Statu
+   
