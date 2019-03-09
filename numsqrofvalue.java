@@ -21,7 +21,7 @@ class numsqrofvalue
            }
            else
            {
-                System.out.print("no");
+                System.out.print("yes");
            }
    }
 } 
