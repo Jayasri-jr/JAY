@@ -1,5 +1,4 @@
 
-27 lines (26 sloc) 475 Bytes
 import java.util.*;
 import java.lang.*;
 class comevenposit
