@@ -1,22 +1,22 @@
 import java.util.Scanner;
-import java.util.Arrays;
-import java.util.HashMap;
-class Countchar
-
+class stringlen 
 {
-   
-    public static void main(String[] args) {
-		String s= "java";
-		HashMap<String, Integer> counter = new HashMap();
-		for(char c : s.toCharArray()){
-			String str="";
-			if(!counter.containsKey(str))
-                        {
-				counter.put(str, 1);
-			}else{
-				counter.put(str, counter.get(str)+1);
-			}
-		}
-		System.out.println(counter);
-	}
+public static void main(String[] args) 
+{
+Scanner sc = new Scanner(System.in);
+ 
+String str= sc.nextLine();
+int count=0;
+String array[]= str.split(" ",0);
+ 
+ for(int i=0;i<array.length;i++){count+=array[i].length();}
+System.out.println(count);
 }
+}
+
+    © 2019 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
