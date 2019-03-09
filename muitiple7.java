@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class muitiple7
+ class multiple7
 {
     public static void main(String args[])
     {
