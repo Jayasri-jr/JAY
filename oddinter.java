@@ -1,22 +1,21 @@
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 class oddinter
 {
-public static void main(String a1[])
+public static void main(String []agrs)
+
 {
-int a,c;
-Scanner b=new Scanner(System.in);
-System.out.println("Enter the first number");
-a=b.nextInt();
-System.out.println("Enter the second number");
-c=b.nextInt();
-System.out.println("THE EVEN NUMBERS BETWEEN THE INTERVALS ARE :");
-for(int i=a+1;i<c;i++)
-{
-if((i%2)!=0)
-{
-System.out.print(i+" ");
-}
-}
+	int i;
+	Scanner ip=new Scanner(System.in);
+    int a=ip.nextInt();
+    int b=ip.nextInt();
+    if(b<100000)
+    {
+        for(i=a;i<=b;i++)
+        {
+            if(i%2==1)
+             System.out.println(i);
+        }
+    }
+
 }
 }
